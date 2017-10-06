@@ -1,1334 +1,1254 @@
 <!DOCTYPE html>
-	<html class="no-js">
-	<head>
-	<!-- Symmetry 3.0.11 -->
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
-	<meta name="theme-color" content="#232323">
-	
-	
-	<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0881/4734/files/favicon.png?v=1499040307" type="image/png" />
-	
-	
-	<title>
-	Collections &ndash; Esther Penn
-	</title>
-	
-	<meta name="description" content="women&#39;s retail, Fort Worth Shopping, Dallas shopping, Texas Boutique, Bohemian, Trendy, Free People, One Teaspoon Denim, Texas Shopping," />
-	
-	<link rel="canonical" href="https://www.estherpenn.com/collections" />
-	
-	
-	<meta property="og:site_name" content="Esther Penn " />
-	
-	<meta property="og:type" content="website" />
-	
-	
-	
-	
-	
-	
-	
-	
-	<meta name="twitter:card" content="summary">
-	
-	
-	
-	
-	
-	
-	
-	
-	<link href="//fonts.googleapis.com/css?family=Lato:400,700|Lato:400,700|Cardo:400,400italic,700|Lato:400,700|Lato:400,700" rel="stylesheet" type="text/css">
-	
-	
-	<link href="//cdn.shopify.com/s/files/1/0881/4734/t/6/assets/styles.scss.css?7257099479362166660" rel="stylesheet" type="text/css" media="all" />
-	
-	
-	
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
-	<script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-0ea851da22ae87c0290f4eeb24bc8b513ca182f3eb721d147c009ae0f5ce14f9.js" type="text/javascript"></script>
-	<script>
-	Shopify.money_format = "$ {{amount}}";
-	window.theme = window.theme || {};
-	theme.money_format = "$ {{amount}}";
-	theme.productData = {};
-	document.documentElement.className = document.documentElement.className.replace('no-js', '');
-	</script>
-	
-	<link rel="stylesheet" media="all" href="//cdn.shopify.com/s/global/list_collections.css?323b53ce369e9a65c04bd081450067137fc36943" />
-	<meta name="shopify-checkout-api-token" content="01ee5d4de2be4f58b9d39f4593b9831c">
-	<script type="text/javascript">
-	//<![CDATA[
-	var Shopify = Shopify || {};
-	Shopify.shop = "esther-penn.myshopify.com";
-	Shopify.theme = {"name":"Symmetry","id":169480259,"theme_store_id":568,"role":"main"};
-	Shopify.theme.handle = "null";
-	Shopify.theme.style = {"id":null,"handle":null};
-	
-	//]]>
-	</script><script id="__st">
-	//<![CDATA[
-	var __st={"a":8814734,"offset":-18000,"reqid":"21845f3b-79b4-4877-95d3-22961d7b440d","pageurl":"www.estherpenn.com\/collections","u":"1a5d2ab0b752","cid":6680180803,"p":"collections"};
-	//]]>
-	</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
-	<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/8814734/digital_wallets/dialog" />
-	<script src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-68ca1924c495cfc55dac65f4853e0c9a395387ffedc8fe58e0f2e677f95d7f23.js" defer="defer"></script>
-	<script type="text/javascript">
-	
-	window.ShopifyAnalytics = window.ShopifyAnalytics || {};
-	window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
-	window.ShopifyAnalytics.meta.currency = 'USD';
-	var meta = {"page":{"pageType":"collections","customerId":6680180803}};
-	for (var attr in meta) {
-	window.ShopifyAnalytics.meta[attr] = meta[attr];
-	}
-	
-	</script>
-	
-	<script type="text/javascript">
-	window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
-	
-	};
-	</script>
-	
-	<script type="text/javascript" class="analytics">
-	(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
-	
-	
-	(function () {
-	var customDocumentWrite = function(content) {
-	var jquery = null;
-	
-	if (window.jQuery) {
-	jquery = window.jQuery;
-	} else if (window.Checkout && window.Checkout.$) {
-	jquery = window.Checkout.$;
-	}
-	
-	if (jquery) {
-	jquery('body').append(content);
-	}
-	};
-	
-	var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
-	if (trekkie.integrations) {
-	return;
-	}
-	trekkie.methods = [
-	'identify',
-	'page',
-	'ready',
-	'track',
-	'trackForm',
-	'trackLink'
-	];
-	trekkie.factory = function(method) {
-	return function() {
-	var args = Array.prototype.slice.call(arguments);
-	args.unshift(method);
-	trekkie.push(args);
-	return trekkie;
-	};
-	};
-	for (var i = 0; i < trekkie.methods.length; i++) {
-	var key = trekkie.methods[i];
-	trekkie[key] = trekkie.factory(key);
-	}
-	trekkie.load = function(config) {
-	trekkie.config = config;
-	var script = document.createElement('script');
-	script.type = 'text/javascript';
-	script.onerror = function(e) {
-	(new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
-	};
-	script.async = true;
-	script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
-	var first = document.getElementsByTagName('script')[0];
-	first.parentNode.insertBefore(script, first);
-	};
-	trekkie.load(
-	{"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":8814734,"isMerchantRequest":null,"themeId":169480259,"themeCityHash":9639200879835295551}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Google Analytics":{"trackingId":"UA-107667547-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Session Attribution":{}}
-	);
-	
-	var loaded = false;
-	trekkie.ready(function() {
-	if (loaded) return;
-	loaded = true;
-	
-	window.ShopifyAnalytics.lib = window.trekkie;
-	
-	ga('require', 'linker');
-	function addListener(element, type, callback) {
-	if (element.addEventListener) {
-	element.addEventListener(type, callback);
-	}
-	else if (element.attachEvent) {
-	element.attachEvent('on' + type, callback);
-	}
-	}
-	function decorate(event) {
-	event = event || window.event;
-	var target = event.target || event.srcElement;
-	if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
-	ga(function (tracker) {
-	var linkerParam = tracker.get('linkerParam');
-	document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
-	});
-	}
-	}
-	addListener(window, 'load', function(){
-	for (var i=0; i < document.forms.length; i++) {
-	var action = document.forms[i].getAttribute('action');
-	if(action && action.indexOf('/cart') >= 0) {
-	addListener(document.forms[i], 'submit', decorate);
-	}
-	}
-	for (var i=0; i < document.links.length; i++) {
-	var href = document.links[i].getAttribute('href');
-	if(href && href.indexOf('/checkout') >= 0) {
-	addListener(document.links[i], 'click', decorate);
-	}
-	}
-	});
-	
-	
-	var originalDocumentWrite = document.write;
-	document.write = customDocumentWrite;
-	try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
-	document.write = originalDocumentWrite;
-	
-	
-	window.ShopifyAnalytics.lib.page(
-	null,
-	{"pageType":"collections","customerId":6680180803}
-	);
-	
-	
-	});
-	
-	
-	var eventsListenerScript = document.createElement('script');
-	eventsListenerScript.async = true;
-	eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-d79ebda2632cb15c30906d249ae7888d93876e15291a55bac5c64aaf1903b36a.js";
-	document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
-	
-	})();
-	</script>
-	
-	<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":8814734,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/8814734","merchantName":"Esther Penn ","requiredBillingContactFields":["postalAddress"],"requiredShippingContactFields":["postalAddress"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"],"total":{"type":"pending","label":"Esther Penn ","amount":"1.00"}}</script>
-	<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-b3f06c1c6e32cdd124a2f0a09b5084ed62715af2e50c04ee9e825edd6709ec1f.js" defer="defer" crossorigin="anonymous" integrity="sha256-s/BsHG4yzdEkovCgm1CE7WJxWvLlDATunoJe3WcJ7B8="></script><script>
-	//<![CDATA[
-	window.Shopify = window.Shopify || {};
-	window.Shopify.Checkout = window.Shopify.Checkout || {};
-	window.Shopify.Checkout.apiHost = "esther-penn.myshopify.com";
-	window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
-	window.Shopify.Checkout.rememberMeAccessToken = "RG0rWnZmSzhYb0lJK3dEYkJBRG85MllrTmxudytrYkUydGk4UG13TTNaZEFXNkNPS2FzUzU3akprelNLbFJzbi0tL2xZSXNvMUVRRUR3dEpPMytZcGVUdz09--739d844b4985f3ac874a7298f44c2be92842c5a9";
-	
-	//]]>
-	</script>
-	<script>
-	//<![CDATA[
-	window.ShopifyPaypalV4VisibilityTracking = true;
-	//]]>
-	</script>
-	
-	<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
-	</style>
-	</head>
-	
-	<body class="template-list-collections">
-	
-	<div id="shopify-section-header" class="shopify-section"><style type="text/css">
-	.logo img {
-	width: 300px;
-	}
-	</style>
-	
-	
-	
-	<div data-section-type="header">
-	<div id="pageheader">
-	
-	
-	
-	<div id="mobile-header" class="cf">
-	<button class="notabutton mobile-nav-toggle"><span></span><span></span><span></span></button>
-	
-	<div class="logo">
-	<a href="/" title="Esther Penn ">
-	
-	
-	<img src="//cdn.shopify.com/s/files/1/0881/4734/files/estherpennlogo_600x.png?v=1498701241" alt="" />
-	
-	</a>
-	</div><!-- /#logo -->
-	
-	<a href="/cart" class="cart-count button">
-	<svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-	<title>Cart</title>
-	<path d="M0 0h24v24H0z" fill="none"/>
-	<path d="M17.21 9l-4.38-6.56c-.19-.28-.51-.42-.83-.42-.32 0-.64.14-.83.43L6.79 9H2c-.55 0-1 .45-1 1 0 .09.01.18.04.27l2.54 9.27c.23.84 1 1.46 1.92 1.46h13c.92 0 1.69-.62 1.93-1.46l2.54-9.27L23 10c0-.55-.45-1-1-1h-4.79zM9 9l3-4.4L15 9H9zm3 8c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z"/>
-	</svg> <span class="beside-svg">(0)</span>
-	</a>
-	</div>
-	
-	<div class="logo-area logo-pos-below cf">
-	
-	
-	
-	<div class="util-area">
-	<div class="search-box elegant-input">
-	
-	
-	<form class="search-form" action="/search" method="get">
-	<svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-	<title>Search</title>
-	<path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
-	<path d="M0 0h24v24H0z" fill="none"/>
-	</svg>
-	<input type="text" name="q" placeholder="Search" autocomplete="off"/>
-	<input type="submit" value="&rarr;" />
-	<input type="hidden" name="type" value="product,page" />
-	</form>
-	</div>
-	
-	<div class="utils">
-	
-	<div class="social-links">
-	<ul>
-	
-	<li><a title="Twitter" class="twitter" target="_blank" href="https://twitter.com/esther_penn"><svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Twitter</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-240.000000, -299.000000)" fill="#000000">
-	<path d="M288,303.735283 C286.236309,304.538462 284.337383,305.081618 282.345483,305.324305 C284.379644,304.076201 285.940482,302.097147 286.675823,299.739617 C284.771263,300.895269 282.666667,301.736006 280.418384,302.18671 C278.626519,300.224991 276.065504,299 273.231203,299 C267.796443,299 263.387216,303.521488 263.387216,309.097508 C263.387216,309.88913 263.471738,310.657638 263.640782,311.397255 C255.456242,310.975442 248.201444,306.959552 243.341433,300.843265 C242.493397,302.339834 242.008804,304.076201 242.008804,305.925244 C242.008804,309.426869 243.747139,312.518238 246.389857,314.329722 C244.778306,314.280607 243.256911,313.821235 241.9271,313.070061 L241.9271,313.194294 C241.9271,318.08848 245.322064,322.17082 249.8299,323.095341 C249.004402,323.33225 248.133826,323.450704 247.235077,323.450704 C246.601162,323.450704 245.981335,323.390033 245.381229,323.271578 C246.634971,327.28169 250.269414,330.2026 254.580032,330.280607 C251.210424,332.99061 246.961789,334.605634 242.349709,334.605634 C241.555203,334.605634 240.769149,334.559408 240,334.466956 C244.358514,337.327194 249.53689,339 255.095615,339 C273.211481,339 283.114633,323.615385 283.114633,310.270495 C283.114633,309.831347 283.106181,309.392199 283.089276,308.961719 C285.013559,307.537378 286.684275,305.760563 288,303.735283" id="Twitter"></path>
-	</g>
-	<g id="Credit" transform="translate(-1332.000000, -476.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	
-	<li><a title="Facebook" class="facebook" target="_blank" href="https://www.facebook.com/Estherpennfw"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Facebook</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-325.000000, -295.000000)" fill="#000000">
-	<path d="M350.638355,343 L327.649232,343 C326.185673,343 325,341.813592 325,340.350603 L325,297.649211 C325,296.18585 326.185859,295 327.649232,295 L370.350955,295 C371.813955,295 373,296.18585 373,297.649211 L373,340.350603 C373,341.813778 371.813769,343 370.350955,343 L358.119305,343 L358.119305,324.411755 L364.358521,324.411755 L365.292755,317.167586 L358.119305,317.167586 L358.119305,312.542641 C358.119305,310.445287 358.701712,309.01601 361.70929,309.01601 L365.545311,309.014333 L365.545311,302.535091 C364.881886,302.446808 362.604784,302.24957 359.955552,302.24957 C354.424834,302.24957 350.638355,305.625526 350.638355,311.825209 L350.638355,317.167586 L344.383122,317.167586 L344.383122,324.411755 L350.638355,324.411755 L350.638355,343 L350.638355,343 Z" id="Facebook"></path>
-	</g>
-	<g id="Credit" transform="translate(-1417.000000, -472.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	
-	
-	
-	
-	<li><a title="Instagram" class="instagram" target="_blank" href="https://www.instagram.com/esther_penn/"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Instagram</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-642.000000, -295.000000)" fill="#000000">
-	<path d="M666.000048,295 C659.481991,295 658.664686,295.027628 656.104831,295.144427 C653.550311,295.260939 651.805665,295.666687 650.279088,296.260017 C648.700876,296.873258 647.362454,297.693897 646.028128,299.028128 C644.693897,300.362454 643.873258,301.700876 643.260017,303.279088 C642.666687,304.805665 642.260939,306.550311 642.144427,309.104831 C642.027628,311.664686 642,312.481991 642,319.000048 C642,325.518009 642.027628,326.335314 642.144427,328.895169 C642.260939,331.449689 642.666687,333.194335 643.260017,334.720912 C643.873258,336.299124 644.693897,337.637546 646.028128,338.971872 C647.362454,340.306103 648.700876,341.126742 650.279088,341.740079 C651.805665,342.333313 653.550311,342.739061 656.104831,342.855573 C658.664686,342.972372 659.481991,343 666.000048,343 C672.518009,343 673.335314,342.972372 675.895169,342.855573 C678.449689,342.739061 680.194335,342.333313 681.720912,341.740079 C683.299124,341.126742 684.637546,340.306103 685.971872,338.971872 C687.306103,337.637546 688.126742,336.299124 688.740079,334.720912 C689.333313,333.194335 689.739061,331.449689 689.855573,328.895169 C689.972372,326.335314 690,325.518009 690,319.000048 C690,312.481991 689.972372,311.664686 689.855573,309.104831 C689.739061,306.550311 689.333313,304.805665 688.740079,303.279088 C688.126742,301.700876 687.306103,300.362454 685.971872,299.028128 C684.637546,297.693897 683.299124,296.873258 681.720912,296.260017 C680.194335,295.666687 678.449689,295.260939 675.895169,295.144427 C673.335314,295.027628 672.518009,295 666.000048,295 Z M666.000048,299.324317 C672.40826,299.324317 673.167356,299.348801 675.69806,299.464266 C678.038036,299.570966 679.308818,299.961946 680.154513,300.290621 C681.274771,300.725997 682.074262,301.246066 682.91405,302.08595 C683.753934,302.925738 684.274003,303.725229 684.709379,304.845487 C685.038054,305.691182 685.429034,306.961964 685.535734,309.30194 C685.651199,311.832644 685.675683,312.59174 685.675683,319.000048 C685.675683,325.40826 685.651199,326.167356 685.535734,328.69806 C685.429034,331.038036 685.038054,332.308818 684.709379,333.154513 C684.274003,334.274771 683.753934,335.074262 682.91405,335.91405 C682.074262,336.753934 681.274771,337.274003 680.154513,337.709379 C679.308818,338.038054 678.038036,338.429034 675.69806,338.535734 C673.167737,338.651199 672.408736,338.675683 666.000048,338.675683 C659.591264,338.675683 658.832358,338.651199 656.30194,338.535734 C653.961964,338.429034 652.691182,338.038054 651.845487,337.709379 C650.725229,337.274003 649.925738,336.753934 649.08595,335.91405 C648.246161,335.074262 647.725997,334.274771 647.290621,333.154513 C646.961946,332.308818 646.570966,331.038036 646.464266,328.69806 C646.348801,326.167356 646.324317,325.40826 646.324317,319.000048 C646.324317,312.59174 646.348801,311.832644 646.464266,309.30194 C646.570966,306.961964 646.961946,305.691182 647.290621,304.845487 C647.725997,303.725229 648.246066,302.925738 649.08595,302.08595 C649.925738,301.246066 650.725229,300.725997 651.845487,300.290621 C652.691182,299.961946 653.961964,299.570966 656.30194,299.464266 C658.832644,299.348801 659.59174,299.324317 666.000048,299.324317 Z M666.000048,306.675683 C659.193424,306.675683 653.675683,312.193424 653.675683,319.000048 C653.675683,325.806576 659.193424,331.324317 666.000048,331.324317 C672.806576,331.324317 678.324317,325.806576 678.324317,319.000048 C678.324317,312.193424 672.806576,306.675683 666.000048,306.675683 Z M666.000048,327 C661.581701,327 658,323.418299 658,319.000048 C658,314.581701 661.581701,311 666.000048,311 C670.418299,311 674,314.581701 674,319.000048 C674,323.418299 670.418299,327 666.000048,327 Z M681.691284,306.188768 C681.691284,307.779365 680.401829,309.068724 678.811232,309.068724 C677.22073,309.068724 675.931276,307.779365 675.931276,306.188768 C675.931276,304.598171 677.22073,303.308716 678.811232,303.308716 C680.401829,303.308716 681.691284,304.598171 681.691284,306.188768 Z" id="Instagram"></path>
-	</g>
-	<g id="Credit" transform="translate(-1734.000000, -472.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	
-	
-	
-	</ul>
-	</div>
-	
-	
-	<div class="cart-summary">
-	<a href="/cart" class="cart-count button">
-	Cart (0)
-	</a>
-	
-	
-	</div>
-	</div><!-- /.utils -->
-	</div><!-- /.util-area -->
-	
-	<div class="container">
-	<div class="logo">
-	<a href="/" title="Esther Penn ">
-	
-	
-	<img src="//cdn.shopify.com/s/files/1/0881/4734/files/estherpennlogo_600x.png?v=1498701241" alt="" />
-	
-	</a>
-	</div><!-- /#logo -->
-	</div>
-	
-	</div><!-- /.logo-area -->
-	</div><!-- /#pageheader -->
-	
-	
-	
-	
-	<div id="main-nav" class="nav-row ">
-	<div class="mobile-features">
-	<form class="mobile-search" action="/search" method="get">
-	<i></i>
-	<input type="text" name="q" placeholder="Search"/>
-	<button type="submit" class="notabutton"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-	<title>Search</title>
-	<path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
-	<path d="M0 0h24v24H0z" fill="none"/>
-	</svg></button>
-	</form>
-	</div>
-	<div class="multi-level-nav">
-	<div class="tier-1">
-	
-	
-	
-	
-	
-	
-	
-	<ul data-menu-handle="main-menu">
-	
-	<li>
-	<a href="/">Home</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/collections/summer-collection">Shop</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<ul data-menu-handle="shop">
-	
-	<li>
-	<a href="/collections/d-r-e-s-s-e-s">DRESSES </a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/collections/summer-collection">TOPS </a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/collections/bottoms">BOTTOMS </a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/collections/sweaters">SWEATERS </a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/collections/o-u-t-e-r-w-e-a-r">OUTERWEAR </a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/collections/s-h-o-e-s">SHOES</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li class="active">
-	<a href="/collections">SHOP ALL</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	</ul>
-	
-	
-	</li>
-	
-	<li>
-	<a href="/pages/fort-worth-location">Locations</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<ul data-menu-handle="locations">
-	
-	<li>
-	<a href="/pages/dallas-location">Dallas</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/pages/fort-worth-location">Fort Worth</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	</ul>
-	
-	
-	</li>
-	
-	<li>
-	<a href="/pages/about">About</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	</ul>
-	
-	
-	
-	
-	<div class="mobile-social"><div class="social-links">
-	<ul>
-	
-	<li><a title="Twitter" class="twitter" target="_blank" href="https://twitter.com/esther_penn"><svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Twitter</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-240.000000, -299.000000)" fill="#000000">
-	<path d="M288,303.735283 C286.236309,304.538462 284.337383,305.081618 282.345483,305.324305 C284.379644,304.076201 285.940482,302.097147 286.675823,299.739617 C284.771263,300.895269 282.666667,301.736006 280.418384,302.18671 C278.626519,300.224991 276.065504,299 273.231203,299 C267.796443,299 263.387216,303.521488 263.387216,309.097508 C263.387216,309.88913 263.471738,310.657638 263.640782,311.397255 C255.456242,310.975442 248.201444,306.959552 243.341433,300.843265 C242.493397,302.339834 242.008804,304.076201 242.008804,305.925244 C242.008804,309.426869 243.747139,312.518238 246.389857,314.329722 C244.778306,314.280607 243.256911,313.821235 241.9271,313.070061 L241.9271,313.194294 C241.9271,318.08848 245.322064,322.17082 249.8299,323.095341 C249.004402,323.33225 248.133826,323.450704 247.235077,323.450704 C246.601162,323.450704 245.981335,323.390033 245.381229,323.271578 C246.634971,327.28169 250.269414,330.2026 254.580032,330.280607 C251.210424,332.99061 246.961789,334.605634 242.349709,334.605634 C241.555203,334.605634 240.769149,334.559408 240,334.466956 C244.358514,337.327194 249.53689,339 255.095615,339 C273.211481,339 283.114633,323.615385 283.114633,310.270495 C283.114633,309.831347 283.106181,309.392199 283.089276,308.961719 C285.013559,307.537378 286.684275,305.760563 288,303.735283" id="Twitter"></path>
-	</g>
-	<g id="Credit" transform="translate(-1332.000000, -476.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	
-	<li><a title="Facebook" class="facebook" target="_blank" href="https://www.facebook.com/Estherpennfw"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Facebook</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-325.000000, -295.000000)" fill="#000000">
-	<path d="M350.638355,343 L327.649232,343 C326.185673,343 325,341.813592 325,340.350603 L325,297.649211 C325,296.18585 326.185859,295 327.649232,295 L370.350955,295 C371.813955,295 373,296.18585 373,297.649211 L373,340.350603 C373,341.813778 371.813769,343 370.350955,343 L358.119305,343 L358.119305,324.411755 L364.358521,324.411755 L365.292755,317.167586 L358.119305,317.167586 L358.119305,312.542641 C358.119305,310.445287 358.701712,309.01601 361.70929,309.01601 L365.545311,309.014333 L365.545311,302.535091 C364.881886,302.446808 362.604784,302.24957 359.955552,302.24957 C354.424834,302.24957 350.638355,305.625526 350.638355,311.825209 L350.638355,317.167586 L344.383122,317.167586 L344.383122,324.411755 L350.638355,324.411755 L350.638355,343 L350.638355,343 Z" id="Facebook"></path>
-	</g>
-	<g id="Credit" transform="translate(-1417.000000, -472.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	
-	
-	
-	
-	<li><a title="Instagram" class="instagram" target="_blank" href="https://www.instagram.com/esther_penn/"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Instagram</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-642.000000, -295.000000)" fill="#000000">
-	<path d="M666.000048,295 C659.481991,295 658.664686,295.027628 656.104831,295.144427 C653.550311,295.260939 651.805665,295.666687 650.279088,296.260017 C648.700876,296.873258 647.362454,297.693897 646.028128,299.028128 C644.693897,300.362454 643.873258,301.700876 643.260017,303.279088 C642.666687,304.805665 642.260939,306.550311 642.144427,309.104831 C642.027628,311.664686 642,312.481991 642,319.000048 C642,325.518009 642.027628,326.335314 642.144427,328.895169 C642.260939,331.449689 642.666687,333.194335 643.260017,334.720912 C643.873258,336.299124 644.693897,337.637546 646.028128,338.971872 C647.362454,340.306103 648.700876,341.126742 650.279088,341.740079 C651.805665,342.333313 653.550311,342.739061 656.104831,342.855573 C658.664686,342.972372 659.481991,343 666.000048,343 C672.518009,343 673.335314,342.972372 675.895169,342.855573 C678.449689,342.739061 680.194335,342.333313 681.720912,341.740079 C683.299124,341.126742 684.637546,340.306103 685.971872,338.971872 C687.306103,337.637546 688.126742,336.299124 688.740079,334.720912 C689.333313,333.194335 689.739061,331.449689 689.855573,328.895169 C689.972372,326.335314 690,325.518009 690,319.000048 C690,312.481991 689.972372,311.664686 689.855573,309.104831 C689.739061,306.550311 689.333313,304.805665 688.740079,303.279088 C688.126742,301.700876 687.306103,300.362454 685.971872,299.028128 C684.637546,297.693897 683.299124,296.873258 681.720912,296.260017 C680.194335,295.666687 678.449689,295.260939 675.895169,295.144427 C673.335314,295.027628 672.518009,295 666.000048,295 Z M666.000048,299.324317 C672.40826,299.324317 673.167356,299.348801 675.69806,299.464266 C678.038036,299.570966 679.308818,299.961946 680.154513,300.290621 C681.274771,300.725997 682.074262,301.246066 682.91405,302.08595 C683.753934,302.925738 684.274003,303.725229 684.709379,304.845487 C685.038054,305.691182 685.429034,306.961964 685.535734,309.30194 C685.651199,311.832644 685.675683,312.59174 685.675683,319.000048 C685.675683,325.40826 685.651199,326.167356 685.535734,328.69806 C685.429034,331.038036 685.038054,332.308818 684.709379,333.154513 C684.274003,334.274771 683.753934,335.074262 682.91405,335.91405 C682.074262,336.753934 681.274771,337.274003 680.154513,337.709379 C679.308818,338.038054 678.038036,338.429034 675.69806,338.535734 C673.167737,338.651199 672.408736,338.675683 666.000048,338.675683 C659.591264,338.675683 658.832358,338.651199 656.30194,338.535734 C653.961964,338.429034 652.691182,338.038054 651.845487,337.709379 C650.725229,337.274003 649.925738,336.753934 649.08595,335.91405 C648.246161,335.074262 647.725997,334.274771 647.290621,333.154513 C646.961946,332.308818 646.570966,331.038036 646.464266,328.69806 C646.348801,326.167356 646.324317,325.40826 646.324317,319.000048 C646.324317,312.59174 646.348801,311.832644 646.464266,309.30194 C646.570966,306.961964 646.961946,305.691182 647.290621,304.845487 C647.725997,303.725229 648.246066,302.925738 649.08595,302.08595 C649.925738,301.246066 650.725229,300.725997 651.845487,300.290621 C652.691182,299.961946 653.961964,299.570966 656.30194,299.464266 C658.832644,299.348801 659.59174,299.324317 666.000048,299.324317 Z M666.000048,306.675683 C659.193424,306.675683 653.675683,312.193424 653.675683,319.000048 C653.675683,325.806576 659.193424,331.324317 666.000048,331.324317 C672.806576,331.324317 678.324317,325.806576 678.324317,319.000048 C678.324317,312.193424 672.806576,306.675683 666.000048,306.675683 Z M666.000048,327 C661.581701,327 658,323.418299 658,319.000048 C658,314.581701 661.581701,311 666.000048,311 C670.418299,311 674,314.581701 674,319.000048 C674,323.418299 670.418299,327 666.000048,327 Z M681.691284,306.188768 C681.691284,307.779365 680.401829,309.068724 678.811232,309.068724 C677.22073,309.068724 675.931276,307.779365 675.931276,306.188768 C675.931276,304.598171 677.22073,303.308716 678.811232,303.308716 C680.401829,303.308716 681.691284,304.598171 681.691284,306.188768 Z" id="Instagram"></path>
-	</g>
-	<g id="Credit" transform="translate(-1734.000000, -472.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	
-	
-	
-	</ul>
-	</div></div>
-	
-	
-	<ul>
-	<li class="account-links">
-	
-	<span class="your-acct"><a href="/account">Your Account</a></span>
-	<span class="slash">/</span>
-	<span class="logout"><a href="/account/logout" id="customer_logout_link">Log out</a></span>
-	
-	</li>
-	</ul>
-	
-	
-	
-	</div>
-	</div>
-	<div class="mobile-currency-switcher"></div>
-	</div><!-- /#main-nav -->
-	
-	
-	
-	
-	<div id="store-messages" class="messages-0">
-	<div class="container cf">
-	
-	</div>
-	</div><!-- /#store-messages -->
-	
-	
-	
-	
-	</div>
-	
-	
-	
-	
-	
-	</div>
-	
-	<div id="content">
-	<div class="container cf">
-	
-	<div id="shopify-section-list-collections-template" class="shopify-section"><div data-section-type="list-collections-template">
-	<div class="container">
-	<div class="page-header cf">
-	<h1 class="majortitle">Our collections</h1>
-	
-	<div class="social-area desktop-only">
-	<div class="sharing social-links">
-	
-	<span class="label">Share</span>
-	
-	
-	
-	
-	
-	
-	<ul>
-	
-	<li class="facebook"><a title="Share on Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.estherpenn.com/collections"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Facebook</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-325.000000, -295.000000)" fill="#000000">
-	<path d="M350.638355,343 L327.649232,343 C326.185673,343 325,341.813592 325,340.350603 L325,297.649211 C325,296.18585 326.185859,295 327.649232,295 L370.350955,295 C371.813955,295 373,296.18585 373,297.649211 L373,340.350603 C373,341.813778 371.813769,343 370.350955,343 L358.119305,343 L358.119305,324.411755 L364.358521,324.411755 L365.292755,317.167586 L358.119305,317.167586 L358.119305,312.542641 C358.119305,310.445287 358.701712,309.01601 361.70929,309.01601 L365.545311,309.014333 L365.545311,302.535091 C364.881886,302.446808 362.604784,302.24957 359.955552,302.24957 C354.424834,302.24957 350.638355,305.625526 350.638355,311.825209 L350.638355,317.167586 L344.383122,317.167586 L344.383122,324.411755 L350.638355,324.411755 L350.638355,343 L350.638355,343 Z" id="Facebook"></path>
-	</g>
-	<g id="Credit" transform="translate(-1417.000000, -472.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	<li class="twitter"><a title="Share on Twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Check%20out%20Collections: https://www.estherpenn.com/collections"><svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Twitter</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-240.000000, -299.000000)" fill="#000000">
-	<path d="M288,303.735283 C286.236309,304.538462 284.337383,305.081618 282.345483,305.324305 C284.379644,304.076201 285.940482,302.097147 286.675823,299.739617 C284.771263,300.895269 282.666667,301.736006 280.418384,302.18671 C278.626519,300.224991 276.065504,299 273.231203,299 C267.796443,299 263.387216,303.521488 263.387216,309.097508 C263.387216,309.88913 263.471738,310.657638 263.640782,311.397255 C255.456242,310.975442 248.201444,306.959552 243.341433,300.843265 C242.493397,302.339834 242.008804,304.076201 242.008804,305.925244 C242.008804,309.426869 243.747139,312.518238 246.389857,314.329722 C244.778306,314.280607 243.256911,313.821235 241.9271,313.070061 L241.9271,313.194294 C241.9271,318.08848 245.322064,322.17082 249.8299,323.095341 C249.004402,323.33225 248.133826,323.450704 247.235077,323.450704 C246.601162,323.450704 245.981335,323.390033 245.381229,323.271578 C246.634971,327.28169 250.269414,330.2026 254.580032,330.280607 C251.210424,332.99061 246.961789,334.605634 242.349709,334.605634 C241.555203,334.605634 240.769149,334.559408 240,334.466956 C244.358514,337.327194 249.53689,339 255.095615,339 C273.211481,339 283.114633,323.615385 283.114633,310.270495 C283.114633,309.831347 283.106181,309.392199 283.089276,308.961719 C285.013559,307.537378 286.684275,305.760563 288,303.735283" id="Twitter"></path>
-	</g>
-	<g id="Credit" transform="translate(-1332.000000, -476.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	
-	
-	<li class="google"><a title="Share on Google+" target="_blank" href="https://plus.google.com/share?url=https://www.estherpenn.com/collections"><svg width="66px" height="42px" viewBox="0 0 66 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>GooglePlus</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-726.000000, -298.000000)" fill="#000000">
-	<path d="M784.735849,315.257426 L784.735849,307.980198 L779.54717,307.980198 L779.54717,315.257426 L772.075472,315.257426 L772.075472,320.455446 L779.54717,320.455446 L779.54717,327.940594 L784.735849,327.940594 L784.735849,320.455446 L792,320.455446 L792,315.257426 L784.735849,315.257426 L784.735849,315.257426 Z M746.962264,314.841584 L746.962264,323.158416 C746.962264,323.158416 755.015925,323.147604 758.29517,323.147604 C756.519396,328.539198 753.758189,331.475248 746.962264,331.475248 C740.084774,331.475248 734.716981,325.889871 734.716981,319 C734.716981,312.110129 740.084774,306.524752 746.962264,306.524752 C750.598491,306.524752 752.946887,307.805129 755.101019,309.589713 C756.825321,307.862307 756.681283,307.616129 761.068208,303.465822 C757.344189,300.070059 752.394604,298 746.962264,298 C735.385075,298 726,307.40197 726,319 C726,330.597822 735.385075,340 746.962264,340 C764.266925,340 768.496528,324.90495 767.09434,314.841584 L746.962264,314.841584 L746.962264,314.841584 Z" id="GooglePlus"></path>
-	</g>
-	<g id="Credit" transform="translate(-1818.000000, -475.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	<li class="email"><a title="Share using email" href="mailto:?subject=Check%20out%20Collections&amp;body=Check%20out%20Collections:%0D%0A%0D%0Ahttps://www.estherpenn.com/collections"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-	<title>Email</title>
-	<path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
-	<path d="M0 0h24v24H0z" fill="none"/>
-	</svg></a></li>
-	
-	</ul>
-	</div>
-	</div>
-	</div>
-	</div>
-	
-	
-	
-	
-	
-	<div class="collection-listing overlay-mode-m">
-	
-	
-	<div class="product-block collection-block" >
-	<div class="block-inner">
-	<a class="product-link" href="/collections/jewelry">
-	
-	<div class="image-cont">
-	
-	<img src="//cdn.shopify.com/s/files/1/0881/4734/collections/BeadedBib1_x600.jpg?v=1438632694" alt="A C C E S S O R I E S">
-	
-	</div>
-	
-	<div class="product-info">
-	<span class="productlabel general">
-	<span>
-	<span class="title">A C C E S S O R I E S</span>
-	
-	</span>
-	</span>
-	</div>
-	
-	</a>
-	</div>
-	</div>
-	
-	
-	
-	<div class="product-block collection-block" >
-	<div class="block-inner">
-	<a class="product-link" href="/collections/bottoms">
-	
-	<div class="image-cont">
-	
-	<img src="//cdn.shopify.com/s/files/1/0881/4734/products/318A0485_x600.jpg?v=1507075672" alt="BLACK CAB SKIRT">
-	
-	</div>
-	
-	<div class="product-info">
-	<span class="productlabel general">
-	<span>
-	<span class="title">B O T T O M S</span>
-	
-	<span class="count">7 products</span>
-	
-	</span>
-	</span>
-	</div>
-	
-	</a>
-	</div>
-	</div>
-	
-	
-	
-	<div class="product-block collection-block" >
-	<div class="block-inner">
-	<a class="product-link" href="/collections/d-r-e-s-s-e-s">
-	
-	<div class="image-cont">
-	
-	<img src="//cdn.shopify.com/s/files/1/0881/4734/products/318A2231-2_x600.jpg?v=1507076302" alt="AFTER WORK STRIPE DRESS">
-	
-	</div>
-	
-	<div class="product-info">
-	<span class="productlabel general">
-	<span>
-	<span class="title">D R E S S E S</span>
-	
-	<span class="count">13 products</span>
-	
-	</span>
-	</span>
-	</div>
-	
-	</a>
-	</div>
-	</div>
-	
-	
-	
-	<div class="product-block collection-block" >
-	<div class="block-inner">
-	<a class="product-link" href="/collections/o-u-t-e-r-w-e-a-r">
-	
-	<div class="image-cont">
-	
-	<img src="//cdn.shopify.com/s/files/1/0881/4734/products/318A1843_x600.jpg?v=1507134002" alt="BLACK ONYX LEATHER JACKET">
-	
-	</div>
-	
-	<div class="product-info">
-	<span class="productlabel general">
-	<span>
-	<span class="title">O U T E R W E A R</span>
-	
-	<span class="count">6 products</span>
-	
-	</span>
-	</span>
-	</div>
-	
-	</a>
-	</div>
-	</div>
-	
-	
-	
-	<div class="product-block collection-block" >
-	<div class="block-inner">
-	<a class="product-link" href="/collections/s-h-o-e-s">
-	
-	<div class="image-cont">
-	
-	<img src="//cdn.shopify.com/s/files/1/0881/4734/products/101393207_x600.jpg?v=1505778279" alt="BEAUX PLATFORM">
-	
-	</div>
-	
-	<div class="product-info">
-	<span class="productlabel general">
-	<span>
-	<span class="title">S H O E S</span>
-	
-	<span class="count">4 products</span>
-	
-	</span>
-	</span>
-	</div>
-	
-	</a>
-	</div>
-	</div>
-	
-	
-	
-	<div class="product-block collection-block" >
-	<div class="block-inner">
-	<a class="product-link" href="/collections/sweaters">
-	
-	<div class="image-cont">
-	
-	<img src="//cdn.shopify.com/s/files/1/0881/4734/products/318A1457_x600.jpg?v=1507131984" alt="WEEKEND PULLOVER">
-	
-	</div>
-	
-	<div class="product-info">
-	<span class="productlabel general">
-	<span>
-	<span class="title">S W E A T E R S</span>
-	
-	<span class="count">9 products</span>
-	
-	</span>
-	</span>
-	</div>
-	
-	</a>
-	</div>
-	</div>
-	
-	
-	
-	<div class="product-block collection-block" >
-	<div class="block-inner">
-	<a class="product-link" href="/collections/summer-collection">
-	
-	<div class="image-cont">
-	
-	<img src="//cdn.shopify.com/s/files/1/0881/4734/collections/DateNightTop1_x600.jpg?v=1438632594" alt="T O P S">
-	
-	</div>
-	
-	<div class="product-info">
-	<span class="productlabel general">
-	<span>
-	<span class="title">T O P S</span>
-	
-	<span class="count">21 products</span>
-	
-	</span>
-	</span>
-	</div>
-	
-	</a>
-	</div>
-	</div>
-	
-	
-	</div>
-	
-	<div class="pagination-row"></div>
-	
-	
-	
-	</div>
-	
-	
-	
-	</div>
-	
-	
-	</div><!-- /.container -->
-	</div><!-- /#content -->
-	
-	<div id="pagefooter">
-	<div id="shopify-section-cross-page-promos" class="shopify-section">
-	
-	
-	
-	
-	
-	<style type="text/css">
-	
-	</style>
-	
-	
-	
-	</div>
-	
-	<div id="shopify-section-footer" class="shopify-section">
-	<div class="nav-row">
-	<div class="multi-level-nav">
-	<div class="tier-1">
-	
-	
-	
-	
-	
-	
-	
-	<ul data-menu-handle="footer">
-	
-	<li>
-	<a href="/">Home</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/search">Search</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/pages/dallas-location">Locations</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<ul data-menu-handle="locations">
-	
-	<li>
-	<a href="/pages/dallas-location">Dallas</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/pages/fort-worth-location">Fort Worth</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	</ul>
-	
-	
-	</li>
-	
-	<li>
-	<a href="/pages/about">About</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/pages/return-policy">Return Policy</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/pages/terms-and-conditions">Terms and Conditions</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	<li>
-	<a href="/pages/privacy-policy">Privacy Policy</a>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</li>
-	
-	</ul>
-	
-	
-	
-	
-	
-	</div>
-	</div>
-	</div><!-- /.nav-row -->
-	
-	
-	<div class="lower cf">
-	
-	<div class="social-links">
-	<ul>
-	
-	<li><a title="Twitter" class="twitter" target="_blank" href="https://twitter.com/esther_penn"><svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Twitter</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-240.000000, -299.000000)" fill="#000000">
-	<path d="M288,303.735283 C286.236309,304.538462 284.337383,305.081618 282.345483,305.324305 C284.379644,304.076201 285.940482,302.097147 286.675823,299.739617 C284.771263,300.895269 282.666667,301.736006 280.418384,302.18671 C278.626519,300.224991 276.065504,299 273.231203,299 C267.796443,299 263.387216,303.521488 263.387216,309.097508 C263.387216,309.88913 263.471738,310.657638 263.640782,311.397255 C255.456242,310.975442 248.201444,306.959552 243.341433,300.843265 C242.493397,302.339834 242.008804,304.076201 242.008804,305.925244 C242.008804,309.426869 243.747139,312.518238 246.389857,314.329722 C244.778306,314.280607 243.256911,313.821235 241.9271,313.070061 L241.9271,313.194294 C241.9271,318.08848 245.322064,322.17082 249.8299,323.095341 C249.004402,323.33225 248.133826,323.450704 247.235077,323.450704 C246.601162,323.450704 245.981335,323.390033 245.381229,323.271578 C246.634971,327.28169 250.269414,330.2026 254.580032,330.280607 C251.210424,332.99061 246.961789,334.605634 242.349709,334.605634 C241.555203,334.605634 240.769149,334.559408 240,334.466956 C244.358514,337.327194 249.53689,339 255.095615,339 C273.211481,339 283.114633,323.615385 283.114633,310.270495 C283.114633,309.831347 283.106181,309.392199 283.089276,308.961719 C285.013559,307.537378 286.684275,305.760563 288,303.735283" id="Twitter"></path>
-	</g>
-	<g id="Credit" transform="translate(-1332.000000, -476.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	
-	<li><a title="Facebook" class="facebook" target="_blank" href="https://www.facebook.com/Estherpennfw"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Facebook</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-325.000000, -295.000000)" fill="#000000">
-	<path d="M350.638355,343 L327.649232,343 C326.185673,343 325,341.813592 325,340.350603 L325,297.649211 C325,296.18585 326.185859,295 327.649232,295 L370.350955,295 C371.813955,295 373,296.18585 373,297.649211 L373,340.350603 C373,341.813778 371.813769,343 370.350955,343 L358.119305,343 L358.119305,324.411755 L364.358521,324.411755 L365.292755,317.167586 L358.119305,317.167586 L358.119305,312.542641 C358.119305,310.445287 358.701712,309.01601 361.70929,309.01601 L365.545311,309.014333 L365.545311,302.535091 C364.881886,302.446808 362.604784,302.24957 359.955552,302.24957 C354.424834,302.24957 350.638355,305.625526 350.638355,311.825209 L350.638355,317.167586 L344.383122,317.167586 L344.383122,324.411755 L350.638355,324.411755 L350.638355,343 L350.638355,343 Z" id="Facebook"></path>
-	</g>
-	<g id="Credit" transform="translate(-1417.000000, -472.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	
-	
-	
-	
-	<li><a title="Instagram" class="instagram" target="_blank" href="https://www.instagram.com/esther_penn/"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Instagram</title>
-	<defs></defs>
-	<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-	<g id="Black" transform="translate(-642.000000, -295.000000)" fill="#000000">
-	<path d="M666.000048,295 C659.481991,295 658.664686,295.027628 656.104831,295.144427 C653.550311,295.260939 651.805665,295.666687 650.279088,296.260017 C648.700876,296.873258 647.362454,297.693897 646.028128,299.028128 C644.693897,300.362454 643.873258,301.700876 643.260017,303.279088 C642.666687,304.805665 642.260939,306.550311 642.144427,309.104831 C642.027628,311.664686 642,312.481991 642,319.000048 C642,325.518009 642.027628,326.335314 642.144427,328.895169 C642.260939,331.449689 642.666687,333.194335 643.260017,334.720912 C643.873258,336.299124 644.693897,337.637546 646.028128,338.971872 C647.362454,340.306103 648.700876,341.126742 650.279088,341.740079 C651.805665,342.333313 653.550311,342.739061 656.104831,342.855573 C658.664686,342.972372 659.481991,343 666.000048,343 C672.518009,343 673.335314,342.972372 675.895169,342.855573 C678.449689,342.739061 680.194335,342.333313 681.720912,341.740079 C683.299124,341.126742 684.637546,340.306103 685.971872,338.971872 C687.306103,337.637546 688.126742,336.299124 688.740079,334.720912 C689.333313,333.194335 689.739061,331.449689 689.855573,328.895169 C689.972372,326.335314 690,325.518009 690,319.000048 C690,312.481991 689.972372,311.664686 689.855573,309.104831 C689.739061,306.550311 689.333313,304.805665 688.740079,303.279088 C688.126742,301.700876 687.306103,300.362454 685.971872,299.028128 C684.637546,297.693897 683.299124,296.873258 681.720912,296.260017 C680.194335,295.666687 678.449689,295.260939 675.895169,295.144427 C673.335314,295.027628 672.518009,295 666.000048,295 Z M666.000048,299.324317 C672.40826,299.324317 673.167356,299.348801 675.69806,299.464266 C678.038036,299.570966 679.308818,299.961946 680.154513,300.290621 C681.274771,300.725997 682.074262,301.246066 682.91405,302.08595 C683.753934,302.925738 684.274003,303.725229 684.709379,304.845487 C685.038054,305.691182 685.429034,306.961964 685.535734,309.30194 C685.651199,311.832644 685.675683,312.59174 685.675683,319.000048 C685.675683,325.40826 685.651199,326.167356 685.535734,328.69806 C685.429034,331.038036 685.038054,332.308818 684.709379,333.154513 C684.274003,334.274771 683.753934,335.074262 682.91405,335.91405 C682.074262,336.753934 681.274771,337.274003 680.154513,337.709379 C679.308818,338.038054 678.038036,338.429034 675.69806,338.535734 C673.167737,338.651199 672.408736,338.675683 666.000048,338.675683 C659.591264,338.675683 658.832358,338.651199 656.30194,338.535734 C653.961964,338.429034 652.691182,338.038054 651.845487,337.709379 C650.725229,337.274003 649.925738,336.753934 649.08595,335.91405 C648.246161,335.074262 647.725997,334.274771 647.290621,333.154513 C646.961946,332.308818 646.570966,331.038036 646.464266,328.69806 C646.348801,326.167356 646.324317,325.40826 646.324317,319.000048 C646.324317,312.59174 646.348801,311.832644 646.464266,309.30194 C646.570966,306.961964 646.961946,305.691182 647.290621,304.845487 C647.725997,303.725229 648.246066,302.925738 649.08595,302.08595 C649.925738,301.246066 650.725229,300.725997 651.845487,300.290621 C652.691182,299.961946 653.961964,299.570966 656.30194,299.464266 C658.832644,299.348801 659.59174,299.324317 666.000048,299.324317 Z M666.000048,306.675683 C659.193424,306.675683 653.675683,312.193424 653.675683,319.000048 C653.675683,325.806576 659.193424,331.324317 666.000048,331.324317 C672.806576,331.324317 678.324317,325.806576 678.324317,319.000048 C678.324317,312.193424 672.806576,306.675683 666.000048,306.675683 Z M666.000048,327 C661.581701,327 658,323.418299 658,319.000048 C658,314.581701 661.581701,311 666.000048,311 C670.418299,311 674,314.581701 674,319.000048 C674,323.418299 670.418299,327 666.000048,327 Z M681.691284,306.188768 C681.691284,307.779365 680.401829,309.068724 678.811232,309.068724 C677.22073,309.068724 675.931276,307.779365 675.931276,306.188768 C675.931276,304.598171 677.22073,303.308716 678.811232,303.308716 C680.401829,303.308716 681.691284,304.598171 681.691284,306.188768 Z" id="Instagram"></path>
-	</g>
-	<g id="Credit" transform="translate(-1734.000000, -472.000000)"></g>
-	</g>
-	</svg></a></li>
-	
-	
-	
-	
-	</ul>
-	</div>
-	
-	
-	
-	
-	<div class="copyright">
-	<span class="copy">&copy; 2017 <a href="/" title="">Esther Penn </a></span>
-	
-	<!-- Theme by <a href="http://www.cleanthemes.co.uk" target="_blank">Clean Themes</a>.
-	
-	<a target="_blank" rel="nofollow" href="https://www.shopify.com">Powered by Shopify</a> -->
-	</div><!-- /.copyright -->
-	
-	<!-- <div class="payment-methods">
-	
-	<img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_american_express-54be4e6bfc1dbd42f93af603e102fde2356dfe2372a7dd851074964337533296.svg" />
-	
-	<img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_apple_pay-d460161363710d3569a32e30d86970452cbc865913615b792b184c8d448108dc.svg" />
-	
-	<img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_diners_club-d07838507a213e5e52ef4272d3ccfe3da294642628264cd0934baf6878ceb197.svg" />
-	
-	<img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_discover-96a6318d3deeede785ba12114a8d00bd23731f9f16e14ddcd0bdfd5e1d846307.svg" />
-	
-	<img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_jcb-8f8079695e74d5688707997b208994c4d8078baa58b866ed47852cf9674d9332.svg" />
-	
-	<img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_master-94df290d56a3c6424296953282e18e46895ba94bdef368640eb52f8349915610.svg" />
-	
-	<img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_shopify_pay-a1570f15d54d97b58241fbd29a91480cd71c6d6a7ae02c4dac18e46e45a18086.svg" />
-	
-	<img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_visa-e9f829d15f5ec3b1953ba8b9bc59b448ddb1ec9235ae70c7936178744cb31489.svg" />
-	
-	</div> -->
-	</div>
-	
-	
-	
-	</div>
-	</div><!-- /#pagefooter -->
-	
-	<script src="//cdn.shopify.com/s/files/1/0881/4734/t/6/assets/vendor.js?7257099479362166660" type="text/javascript"></script>
-	<script src="//cdn.shopify.com/s/files/1/0881/4734/t/6/assets/theme.js?7257099479362166660" type="text/javascript"></script>
-	
-	
-	
-	</body>
-	</html>
+<html class="no-js">
+<head>
+  <!-- Symmetry 3.0.11 -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <meta name="theme-color" content="#232323">
+  <meta name="google-site-verification" content="ulQK30SLvVPVVkK_Nk_AjDsNhcvduovafdWmO7sArjI" />  <div id="pageheader">
+
+  
+  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0881/4734/files/favicon.png?v=1499040307" type="image/png" />
+  
+  
+  <title>
+    Collections &ndash; Esther Penn 
+  </title>
+  
+  <meta name="description" content="women&#39;s retail, Fort Worth Shopping, Dallas shopping, Texas Boutique, Bohemian, Trendy, Free People, One Teaspoon Denim, Texas Shopping," />
+  
+  <link rel="canonical" href="https://www.estherpenn.com/collections" />
+  
+  
+<meta property="og:site_name" content="Esther Penn " />
+
+    <meta property="og:type" content="website" />
+    
+    
+
+  
+ 
+
+
+
+  <meta name="twitter:card" content="summary">
+
+
+
+  
+  
+
+
+
+<link href="//fonts.googleapis.com/css?family=Lato:400,700|Lato:400,700|Cardo:400,400italic,700|Lato:400,700|Lato:400,700" rel="stylesheet" type="text/css">
+
+  
+  <link href="//cdn.shopify.com/s/files/1/0881/4734/t/6/assets/styles.scss.css?9062247146958027587" rel="stylesheet" type="text/css" media="all" />
+  
+  
+  
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-0ea851da22ae87c0290f4eeb24bc8b513ca182f3eb721d147c009ae0f5ce14f9.js" type="text/javascript"></script>
+<script>
+  Shopify.money_format = "$ {{amount}}";
+  window.theme = window.theme || {};
+  theme.money_format = "$ {{amount}}";
+  theme.productData = {};
+  document.documentElement.className = document.documentElement.className.replace('no-js', '');
+</script>
+
+  <link rel="stylesheet" media="all" href="//cdn.shopify.com/s/global/list_collections.css?62c791ed4998d92a720105f81578197fc6e34e31" />
+<meta name="shopify-checkout-api-token" content="01ee5d4de2be4f58b9d39f4593b9831c">
+<script type="text/javascript">
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "esther-penn.myshopify.com";
+      Shopify.theme = {"name":"Symmetry","id":169480259,"theme_store_id":568,"role":"main"};
+      Shopify.theme.handle = "null";
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script><script id="__st">
+//<![CDATA[
+var __st={"a":8814734,"offset":-18000,"reqid":"b0353f54-a945-46e7-b550-229685dfe24a","pageurl":"www.estherpenn.com\/collections","u":"5afa99e29407","p":"collections"};
+//]]>
+</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/8814734/digital_wallets/dialog" />
+<script src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-68ca1924c495cfc55dac65f4853e0c9a395387ffedc8fe58e0f2e677f95d7f23.js" defer="defer"></script>
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"collections"}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":8814734,"isMerchantRequest":true,"themeId":169480259,"themeCityHash":5822039937616813158}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Google Analytics":{"trackingId":"UA-107667547-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"collections"}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-d79ebda2632cb15c30906d249ae7888d93876e15291a55bac5c64aaf1903b36a.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<script type="text/javascript">
+        function getStyle(el,styleProp) {
+          var x=el;
+          if (x.currentStyle)
+            var y = x.currentStyle[styleProp];
+          else if (window.getComputedStyle)
+            var y = document.defaultView.getComputedStyle(x,null).getPropertyValue(styleProp);
+          return y;
+        }
+
+        function doShift(down){
+          var allElements = document.getElementsByTagName('*');
+          for (var i=0; i<allElements.length; i++) {
+            if (allElements[i].id != "admin_bar_iframe" && getStyle(allElements[i],"position") == "fixed")
+              allElements[i].style.top = parseInt(getStyle(allElements[i], "top"),10) + (down ? 40 : -40) + "px";
+          }
+        }
+        window.onload = function() {
+          doShift(true);
+        }
+
+        if (window.addEventListener){ addEventListener("message", receiveABMessage, false); }
+        else { window.attachEvent("onmessage", receiveABMessage) }
+
+        function setABVCookie(value) {
+          var ex=new Date();
+          ex.setDate(ex.getDate() + 720);
+          document.cookie = "_abv="+value+";expires="+ex.toUTCString()+";path=/";
+        }
+
+        function receiveABMessage(event) {
+          if(event.origin != 'https://esther-penn.myshopify.com') {
+            return;
+          }
+
+          if(event.data == '1') {
+            document.body.style.position = 'relative';
+            document.documentElement.style.paddingTop = "40px";
+            doShift(true);
+            var element = document.getElementById("admin_bar_iframe");
+            element.style.width = '100%';
+            element.style.backgroundColor = '#191919';
+            element.style.right = 'auto';
+            element.style.left = 0;
+            setABVCookie('1');
+          } else if(event.data == '0') {
+            document.body.style.position = 'relative';
+            document.documentElement.style.paddingTop = "0px";
+            doShift(false);
+            var element = document.getElementById("admin_bar_iframe");
+            element.style.backgroundColor = 'transparent';
+            element.style.right = '0px';
+            element.style.left = 'auto';
+            element.style.width = '40px';
+            setABVCookie('0');
+          }
+        }
+      </script>
+<style type="text/css">html {  padding-top:40px; } body { position:relative;} </style>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":8814734,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/8814734","merchantName":"Esther Penn ","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"],"total":{"type":"pending","label":"Esther Penn ","amount":"1.00"}}</script>
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-b3f06c1c6e32cdd124a2f0a09b5084ed62715af2e50c04ee9e825edd6709ec1f.js" defer="defer" crossorigin="anonymous" integrity="sha256-s/BsHG4yzdEkovCgm1CE7WJxWvLlDATunoJe3WcJ7B8="></script><script>
+//<![CDATA[
+      window.Shopify = window.Shopify || {};
+      window.Shopify.Checkout = window.Shopify.Checkout || {};
+      window.Shopify.Checkout.apiHost = "esther-penn.myshopify.com";
+      window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+      window.Shopify.Checkout.rememberMeAccessToken = "cFJiL080Y3NpeEl5dzlLaWdTV2pCRVFWOVJ4OGdDS3dKVW9JMkt4Z2syVjFuV2dmcE9GZXpwcFRvUkhvb042My0tZ3pDeVpGZ1dWcHcxVTQ2cWJsNSt2QT09--77f43a3e6259808c0e008064a64e6c5937c9c42f";
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+window.ShopifyPaypalV4VisibilityTracking = true;
+//]]>
+</script>
+
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+</head>
+
+<body class="template-list-collections">
+  
+  <div id="shopify-section-header" class="shopify-section"><style type="text/css">
+  .logo img {
+    width: 300px;
+  }
+</style>
+
+
+
+<div data-section-type="header">
+
+    
+
+    <div id="mobile-header" class="cf">
+      <button class="notabutton mobile-nav-toggle"><span></span><span></span><span></span></button>
+      
+    <div class="logo">
+      <a href="/" title="Esther Penn ">
+        
+        
+        <img src="//cdn.shopify.com/s/files/1/0881/4734/files/estherpennlogo_600x.png?v=1498701241" alt="" />
+        
+      </a>
+    </div><!-- /#logo -->
+    
+      <a href="/cart" class="cart-count button">
+        <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <title>Cart</title>
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M17.21 9l-4.38-6.56c-.19-.28-.51-.42-.83-.42-.32 0-.64.14-.83.43L6.79 9H2c-.55 0-1 .45-1 1 0 .09.01.18.04.27l2.54 9.27c.23.84 1 1.46 1.92 1.46h13c.92 0 1.69-.62 1.93-1.46l2.54-9.27L23 10c0-.55-.45-1-1-1h-4.79zM9 9l3-4.4L15 9H9zm3 8c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z"/>
+</svg> <span class="beside-svg">(0)</span>
+      </a>
+    </div>
+
+    <div class="logo-area logo-pos-below cf">
+
+      
+
+      <div class="util-area">
+        <div class="search-box elegant-input">
+          
+
+          <form class="search-form" action="/search" method="get">
+            <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <title>Search</title>
+  <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+  <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+            <input type="text" name="q" placeholder="Search" autocomplete="off"/>
+            <input type="submit" value="&rarr;" />
+            <input type="hidden" name="type" value="product,page" />
+          </form>
+        </div>
+
+        <div class="utils">
+          
+          <div class="social-links">
+  <ul>
+    
+    <li><a title="Twitter" class="twitter" target="_blank" href="https://twitter.com/esther_penn"><svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Twitter</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-240.000000, -299.000000)" fill="#000000">
+            <path d="M288,303.735283 C286.236309,304.538462 284.337383,305.081618 282.345483,305.324305 C284.379644,304.076201 285.940482,302.097147 286.675823,299.739617 C284.771263,300.895269 282.666667,301.736006 280.418384,302.18671 C278.626519,300.224991 276.065504,299 273.231203,299 C267.796443,299 263.387216,303.521488 263.387216,309.097508 C263.387216,309.88913 263.471738,310.657638 263.640782,311.397255 C255.456242,310.975442 248.201444,306.959552 243.341433,300.843265 C242.493397,302.339834 242.008804,304.076201 242.008804,305.925244 C242.008804,309.426869 243.747139,312.518238 246.389857,314.329722 C244.778306,314.280607 243.256911,313.821235 241.9271,313.070061 L241.9271,313.194294 C241.9271,318.08848 245.322064,322.17082 249.8299,323.095341 C249.004402,323.33225 248.133826,323.450704 247.235077,323.450704 C246.601162,323.450704 245.981335,323.390033 245.381229,323.271578 C246.634971,327.28169 250.269414,330.2026 254.580032,330.280607 C251.210424,332.99061 246.961789,334.605634 242.349709,334.605634 C241.555203,334.605634 240.769149,334.559408 240,334.466956 C244.358514,337.327194 249.53689,339 255.095615,339 C273.211481,339 283.114633,323.615385 283.114633,310.270495 C283.114633,309.831347 283.106181,309.392199 283.089276,308.961719 C285.013559,307.537378 286.684275,305.760563 288,303.735283" id="Twitter"></path>
+        </g>
+        <g id="Credit" transform="translate(-1332.000000, -476.000000)"></g>
+    </g>
+</svg></a></li>
+    
+    
+    <li><a title="Facebook" class="facebook" target="_blank" href="https://www.facebook.com/Estherpennfw"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Facebook</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-325.000000, -295.000000)" fill="#000000">
+            <path d="M350.638355,343 L327.649232,343 C326.185673,343 325,341.813592 325,340.350603 L325,297.649211 C325,296.18585 326.185859,295 327.649232,295 L370.350955,295 C371.813955,295 373,296.18585 373,297.649211 L373,340.350603 C373,341.813778 371.813769,343 370.350955,343 L358.119305,343 L358.119305,324.411755 L364.358521,324.411755 L365.292755,317.167586 L358.119305,317.167586 L358.119305,312.542641 C358.119305,310.445287 358.701712,309.01601 361.70929,309.01601 L365.545311,309.014333 L365.545311,302.535091 C364.881886,302.446808 362.604784,302.24957 359.955552,302.24957 C354.424834,302.24957 350.638355,305.625526 350.638355,311.825209 L350.638355,317.167586 L344.383122,317.167586 L344.383122,324.411755 L350.638355,324.411755 L350.638355,343 L350.638355,343 Z" id="Facebook"></path>
+        </g>
+        <g id="Credit" transform="translate(-1417.000000, -472.000000)"></g>
+    </g>
+</svg></a></li>
+    
+    
+    
+    
+    
+    <li><a title="Instagram" class="instagram" target="_blank" href="https://www.instagram.com/esther_penn/"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Instagram</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-642.000000, -295.000000)" fill="#000000">
+            <path d="M666.000048,295 C659.481991,295 658.664686,295.027628 656.104831,295.144427 C653.550311,295.260939 651.805665,295.666687 650.279088,296.260017 C648.700876,296.873258 647.362454,297.693897 646.028128,299.028128 C644.693897,300.362454 643.873258,301.700876 643.260017,303.279088 C642.666687,304.805665 642.260939,306.550311 642.144427,309.104831 C642.027628,311.664686 642,312.481991 642,319.000048 C642,325.518009 642.027628,326.335314 642.144427,328.895169 C642.260939,331.449689 642.666687,333.194335 643.260017,334.720912 C643.873258,336.299124 644.693897,337.637546 646.028128,338.971872 C647.362454,340.306103 648.700876,341.126742 650.279088,341.740079 C651.805665,342.333313 653.550311,342.739061 656.104831,342.855573 C658.664686,342.972372 659.481991,343 666.000048,343 C672.518009,343 673.335314,342.972372 675.895169,342.855573 C678.449689,342.739061 680.194335,342.333313 681.720912,341.740079 C683.299124,341.126742 684.637546,340.306103 685.971872,338.971872 C687.306103,337.637546 688.126742,336.299124 688.740079,334.720912 C689.333313,333.194335 689.739061,331.449689 689.855573,328.895169 C689.972372,326.335314 690,325.518009 690,319.000048 C690,312.481991 689.972372,311.664686 689.855573,309.104831 C689.739061,306.550311 689.333313,304.805665 688.740079,303.279088 C688.126742,301.700876 687.306103,300.362454 685.971872,299.028128 C684.637546,297.693897 683.299124,296.873258 681.720912,296.260017 C680.194335,295.666687 678.449689,295.260939 675.895169,295.144427 C673.335314,295.027628 672.518009,295 666.000048,295 Z M666.000048,299.324317 C672.40826,299.324317 673.167356,299.348801 675.69806,299.464266 C678.038036,299.570966 679.308818,299.961946 680.154513,300.290621 C681.274771,300.725997 682.074262,301.246066 682.91405,302.08595 C683.753934,302.925738 684.274003,303.725229 684.709379,304.845487 C685.038054,305.691182 685.429034,306.961964 685.535734,309.30194 C685.651199,311.832644 685.675683,312.59174 685.675683,319.000048 C685.675683,325.40826 685.651199,326.167356 685.535734,328.69806 C685.429034,331.038036 685.038054,332.308818 684.709379,333.154513 C684.274003,334.274771 683.753934,335.074262 682.91405,335.91405 C682.074262,336.753934 681.274771,337.274003 680.154513,337.709379 C679.308818,338.038054 678.038036,338.429034 675.69806,338.535734 C673.167737,338.651199 672.408736,338.675683 666.000048,338.675683 C659.591264,338.675683 658.832358,338.651199 656.30194,338.535734 C653.961964,338.429034 652.691182,338.038054 651.845487,337.709379 C650.725229,337.274003 649.925738,336.753934 649.08595,335.91405 C648.246161,335.074262 647.725997,334.274771 647.290621,333.154513 C646.961946,332.308818 646.570966,331.038036 646.464266,328.69806 C646.348801,326.167356 646.324317,325.40826 646.324317,319.000048 C646.324317,312.59174 646.348801,311.832644 646.464266,309.30194 C646.570966,306.961964 646.961946,305.691182 647.290621,304.845487 C647.725997,303.725229 648.246066,302.925738 649.08595,302.08595 C649.925738,301.246066 650.725229,300.725997 651.845487,300.290621 C652.691182,299.961946 653.961964,299.570966 656.30194,299.464266 C658.832644,299.348801 659.59174,299.324317 666.000048,299.324317 Z M666.000048,306.675683 C659.193424,306.675683 653.675683,312.193424 653.675683,319.000048 C653.675683,325.806576 659.193424,331.324317 666.000048,331.324317 C672.806576,331.324317 678.324317,325.806576 678.324317,319.000048 C678.324317,312.193424 672.806576,306.675683 666.000048,306.675683 Z M666.000048,327 C661.581701,327 658,323.418299 658,319.000048 C658,314.581701 661.581701,311 666.000048,311 C670.418299,311 674,314.581701 674,319.000048 C674,323.418299 670.418299,327 666.000048,327 Z M681.691284,306.188768 C681.691284,307.779365 680.401829,309.068724 678.811232,309.068724 C677.22073,309.068724 675.931276,307.779365 675.931276,306.188768 C675.931276,304.598171 677.22073,303.308716 678.811232,303.308716 C680.401829,303.308716 681.691284,304.598171 681.691284,306.188768 Z" id="Instagram"></path>
+        </g>
+        <g id="Credit" transform="translate(-1734.000000, -472.000000)"></g>
+    </g>
+</svg></a></li>
+    
+    
+    
+    
+  </ul>
+</div>
+          
+
+          <div class="cart-summary">
+            <a href="/cart" class="cart-count button">
+              Cart (0)
+            </a>
+
+            
+          </div>
+        </div><!-- /.utils -->
+      </div><!-- /.util-area -->
+
+      <div class="container">
+    <div class="logo">
+      <a href="/" title="Esther Penn ">
+        
+        
+        <img src="//cdn.shopify.com/s/files/1/0881/4734/files/estherpennlogo_600x.png?v=1498701241" alt="" />
+        
+      </a>
+    </div><!-- /#logo -->
+    </div>
+
+    </div><!-- /.logo-area -->
+  </div><!-- /#pageheader -->
+
+  
+  
+
+  <div id="main-nav" class="nav-row ">
+    <div class="mobile-features">
+      <form class="mobile-search" action="/search" method="get">
+        <i></i>
+        <input type="text" name="q" placeholder="Search"/>
+        <button type="submit" class="notabutton"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <title>Search</title>
+  <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+  <path d="M0 0h24v24H0z" fill="none"/>
+</svg></button>
+      </form>
+    </div>
+    <div class="multi-level-nav">
+  <div class="tier-1">
+    
+
+
+
+
+
+
+<ul data-menu-handle="shop">
+
+    <li>
+        <a href="/collections/d-r-e-s-s-e-s">DRESSES </a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+    <li>
+        <a href="/collections/summer-collection">TOPS </a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+    <li>
+        <a href="/collections/bottoms">BOTTOMS </a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+    <li>
+        <a href="/collections/sweaters">SWEATERS </a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+    <li>
+        <a href="/collections/o-u-t-e-r-w-e-a-r">OUTERWEAR </a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+    <li>
+        <a href="/collections/s-h-o-e-s">SHOES</a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+</ul>
+
+
+
+    
+  <div class="mobile-social"><div class="social-links">
+  <ul>
+    
+    <li><a title="Twitter" class="twitter" target="_blank" href="https://twitter.com/esther_penn"><svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Twitter</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-240.000000, -299.000000)" fill="#000000">
+            <path d="M288,303.735283 C286.236309,304.538462 284.337383,305.081618 282.345483,305.324305 C284.379644,304.076201 285.940482,302.097147 286.675823,299.739617 C284.771263,300.895269 282.666667,301.736006 280.418384,302.18671 C278.626519,300.224991 276.065504,299 273.231203,299 C267.796443,299 263.387216,303.521488 263.387216,309.097508 C263.387216,309.88913 263.471738,310.657638 263.640782,311.397255 C255.456242,310.975442 248.201444,306.959552 243.341433,300.843265 C242.493397,302.339834 242.008804,304.076201 242.008804,305.925244 C242.008804,309.426869 243.747139,312.518238 246.389857,314.329722 C244.778306,314.280607 243.256911,313.821235 241.9271,313.070061 L241.9271,313.194294 C241.9271,318.08848 245.322064,322.17082 249.8299,323.095341 C249.004402,323.33225 248.133826,323.450704 247.235077,323.450704 C246.601162,323.450704 245.981335,323.390033 245.381229,323.271578 C246.634971,327.28169 250.269414,330.2026 254.580032,330.280607 C251.210424,332.99061 246.961789,334.605634 242.349709,334.605634 C241.555203,334.605634 240.769149,334.559408 240,334.466956 C244.358514,337.327194 249.53689,339 255.095615,339 C273.211481,339 283.114633,323.615385 283.114633,310.270495 C283.114633,309.831347 283.106181,309.392199 283.089276,308.961719 C285.013559,307.537378 286.684275,305.760563 288,303.735283" id="Twitter"></path>
+        </g>
+        <g id="Credit" transform="translate(-1332.000000, -476.000000)"></g>
+    </g>
+</svg></a></li>
+    
+    
+    <li><a title="Facebook" class="facebook" target="_blank" href="https://www.facebook.com/Estherpennfw"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Facebook</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-325.000000, -295.000000)" fill="#000000">
+            <path d="M350.638355,343 L327.649232,343 C326.185673,343 325,341.813592 325,340.350603 L325,297.649211 C325,296.18585 326.185859,295 327.649232,295 L370.350955,295 C371.813955,295 373,296.18585 373,297.649211 L373,340.350603 C373,341.813778 371.813769,343 370.350955,343 L358.119305,343 L358.119305,324.411755 L364.358521,324.411755 L365.292755,317.167586 L358.119305,317.167586 L358.119305,312.542641 C358.119305,310.445287 358.701712,309.01601 361.70929,309.01601 L365.545311,309.014333 L365.545311,302.535091 C364.881886,302.446808 362.604784,302.24957 359.955552,302.24957 C354.424834,302.24957 350.638355,305.625526 350.638355,311.825209 L350.638355,317.167586 L344.383122,317.167586 L344.383122,324.411755 L350.638355,324.411755 L350.638355,343 L350.638355,343 Z" id="Facebook"></path>
+        </g>
+        <g id="Credit" transform="translate(-1417.000000, -472.000000)"></g>
+    </g>
+</svg></a></li>
+    
+    
+    
+    
+    
+    <li><a title="Instagram" class="instagram" target="_blank" href="https://www.instagram.com/esther_penn/"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Instagram</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-642.000000, -295.000000)" fill="#000000">
+            <path d="M666.000048,295 C659.481991,295 658.664686,295.027628 656.104831,295.144427 C653.550311,295.260939 651.805665,295.666687 650.279088,296.260017 C648.700876,296.873258 647.362454,297.693897 646.028128,299.028128 C644.693897,300.362454 643.873258,301.700876 643.260017,303.279088 C642.666687,304.805665 642.260939,306.550311 642.144427,309.104831 C642.027628,311.664686 642,312.481991 642,319.000048 C642,325.518009 642.027628,326.335314 642.144427,328.895169 C642.260939,331.449689 642.666687,333.194335 643.260017,334.720912 C643.873258,336.299124 644.693897,337.637546 646.028128,338.971872 C647.362454,340.306103 648.700876,341.126742 650.279088,341.740079 C651.805665,342.333313 653.550311,342.739061 656.104831,342.855573 C658.664686,342.972372 659.481991,343 666.000048,343 C672.518009,343 673.335314,342.972372 675.895169,342.855573 C678.449689,342.739061 680.194335,342.333313 681.720912,341.740079 C683.299124,341.126742 684.637546,340.306103 685.971872,338.971872 C687.306103,337.637546 688.126742,336.299124 688.740079,334.720912 C689.333313,333.194335 689.739061,331.449689 689.855573,328.895169 C689.972372,326.335314 690,325.518009 690,319.000048 C690,312.481991 689.972372,311.664686 689.855573,309.104831 C689.739061,306.550311 689.333313,304.805665 688.740079,303.279088 C688.126742,301.700876 687.306103,300.362454 685.971872,299.028128 C684.637546,297.693897 683.299124,296.873258 681.720912,296.260017 C680.194335,295.666687 678.449689,295.260939 675.895169,295.144427 C673.335314,295.027628 672.518009,295 666.000048,295 Z M666.000048,299.324317 C672.40826,299.324317 673.167356,299.348801 675.69806,299.464266 C678.038036,299.570966 679.308818,299.961946 680.154513,300.290621 C681.274771,300.725997 682.074262,301.246066 682.91405,302.08595 C683.753934,302.925738 684.274003,303.725229 684.709379,304.845487 C685.038054,305.691182 685.429034,306.961964 685.535734,309.30194 C685.651199,311.832644 685.675683,312.59174 685.675683,319.000048 C685.675683,325.40826 685.651199,326.167356 685.535734,328.69806 C685.429034,331.038036 685.038054,332.308818 684.709379,333.154513 C684.274003,334.274771 683.753934,335.074262 682.91405,335.91405 C682.074262,336.753934 681.274771,337.274003 680.154513,337.709379 C679.308818,338.038054 678.038036,338.429034 675.69806,338.535734 C673.167737,338.651199 672.408736,338.675683 666.000048,338.675683 C659.591264,338.675683 658.832358,338.651199 656.30194,338.535734 C653.961964,338.429034 652.691182,338.038054 651.845487,337.709379 C650.725229,337.274003 649.925738,336.753934 649.08595,335.91405 C648.246161,335.074262 647.725997,334.274771 647.290621,333.154513 C646.961946,332.308818 646.570966,331.038036 646.464266,328.69806 C646.348801,326.167356 646.324317,325.40826 646.324317,319.000048 C646.324317,312.59174 646.348801,311.832644 646.464266,309.30194 C646.570966,306.961964 646.961946,305.691182 647.290621,304.845487 C647.725997,303.725229 648.246066,302.925738 649.08595,302.08595 C649.925738,301.246066 650.725229,300.725997 651.845487,300.290621 C652.691182,299.961946 653.961964,299.570966 656.30194,299.464266 C658.832644,299.348801 659.59174,299.324317 666.000048,299.324317 Z M666.000048,306.675683 C659.193424,306.675683 653.675683,312.193424 653.675683,319.000048 C653.675683,325.806576 659.193424,331.324317 666.000048,331.324317 C672.806576,331.324317 678.324317,325.806576 678.324317,319.000048 C678.324317,312.193424 672.806576,306.675683 666.000048,306.675683 Z M666.000048,327 C661.581701,327 658,323.418299 658,319.000048 C658,314.581701 661.581701,311 666.000048,311 C670.418299,311 674,314.581701 674,319.000048 C674,323.418299 670.418299,327 666.000048,327 Z M681.691284,306.188768 C681.691284,307.779365 680.401829,309.068724 678.811232,309.068724 C677.22073,309.068724 675.931276,307.779365 675.931276,306.188768 C675.931276,304.598171 677.22073,303.308716 678.811232,303.308716 C680.401829,303.308716 681.691284,304.598171 681.691284,306.188768 Z" id="Instagram"></path>
+        </g>
+        <g id="Credit" transform="translate(-1734.000000, -472.000000)"></g>
+    </g>
+</svg></a></li>
+    
+    
+    
+    
+  </ul>
+</div></div>
+  
+  
+  <ul>
+    <li class="account-links">
+      
+      
+      <span class="register"><a href="/account/register" id="customer_register_link">Register</a></span> <span class="slash">/</span>
+      
+      <span class="login"><a href="/account/login" id="customer_login_link">Log in</a></span>
+      
+    </li>
+  </ul>
+  
+  
+    
+  </div>
+</div>
+    <div class="mobile-currency-switcher"></div>
+  </div><!-- /#main-nav -->
+
+
+  
+
+  <div id="store-messages" class="messages-0">
+    <div class="container cf">
+      
+    </div>
+  </div><!-- /#store-messages -->
+
+  
+
+  
+</div>
+
+
+
+
+
+</div>
+
+  <div id="content">
+    <div class="container cf">
+      
+      <div id="shopify-section-list-collections-template" class="shopify-section"><div data-section-type="list-collections-template">
+  <div class="container">
+    <div class="page-header cf">
+      <h1 class="majortitle">Our collections</h1>
+
+      <div class="social-area desktop-only">
+        <div class="sharing social-links">
+  
+  <span class="label">Share</span>
+  
+  
+  
+
+  
+  
+  <ul>
+
+    <li class="facebook"><a title="Share on Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.estherpenn.com/collections"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Facebook</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-325.000000, -295.000000)" fill="#000000">
+            <path d="M350.638355,343 L327.649232,343 C326.185673,343 325,341.813592 325,340.350603 L325,297.649211 C325,296.18585 326.185859,295 327.649232,295 L370.350955,295 C371.813955,295 373,296.18585 373,297.649211 L373,340.350603 C373,341.813778 371.813769,343 370.350955,343 L358.119305,343 L358.119305,324.411755 L364.358521,324.411755 L365.292755,317.167586 L358.119305,317.167586 L358.119305,312.542641 C358.119305,310.445287 358.701712,309.01601 361.70929,309.01601 L365.545311,309.014333 L365.545311,302.535091 C364.881886,302.446808 362.604784,302.24957 359.955552,302.24957 C354.424834,302.24957 350.638355,305.625526 350.638355,311.825209 L350.638355,317.167586 L344.383122,317.167586 L344.383122,324.411755 L350.638355,324.411755 L350.638355,343 L350.638355,343 Z" id="Facebook"></path>
+        </g>
+        <g id="Credit" transform="translate(-1417.000000, -472.000000)"></g>
+    </g>
+</svg></a></li>
+
+    <li class="twitter"><a title="Share on Twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Check%20out%20Collections: https://www.estherpenn.com/collections"><svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Twitter</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-240.000000, -299.000000)" fill="#000000">
+            <path d="M288,303.735283 C286.236309,304.538462 284.337383,305.081618 282.345483,305.324305 C284.379644,304.076201 285.940482,302.097147 286.675823,299.739617 C284.771263,300.895269 282.666667,301.736006 280.418384,302.18671 C278.626519,300.224991 276.065504,299 273.231203,299 C267.796443,299 263.387216,303.521488 263.387216,309.097508 C263.387216,309.88913 263.471738,310.657638 263.640782,311.397255 C255.456242,310.975442 248.201444,306.959552 243.341433,300.843265 C242.493397,302.339834 242.008804,304.076201 242.008804,305.925244 C242.008804,309.426869 243.747139,312.518238 246.389857,314.329722 C244.778306,314.280607 243.256911,313.821235 241.9271,313.070061 L241.9271,313.194294 C241.9271,318.08848 245.322064,322.17082 249.8299,323.095341 C249.004402,323.33225 248.133826,323.450704 247.235077,323.450704 C246.601162,323.450704 245.981335,323.390033 245.381229,323.271578 C246.634971,327.28169 250.269414,330.2026 254.580032,330.280607 C251.210424,332.99061 246.961789,334.605634 242.349709,334.605634 C241.555203,334.605634 240.769149,334.559408 240,334.466956 C244.358514,337.327194 249.53689,339 255.095615,339 C273.211481,339 283.114633,323.615385 283.114633,310.270495 C283.114633,309.831347 283.106181,309.392199 283.089276,308.961719 C285.013559,307.537378 286.684275,305.760563 288,303.735283" id="Twitter"></path>
+        </g>
+        <g id="Credit" transform="translate(-1332.000000, -476.000000)"></g>
+    </g>
+</svg></a></li>
+
+    
+
+    <li class="google"><a title="Share on Google+" target="_blank" href="https://plus.google.com/share?url=https://www.estherpenn.com/collections"><svg width="66px" height="42px" viewBox="0 0 66 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>GooglePlus</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-726.000000, -298.000000)" fill="#000000">
+            <path d="M784.735849,315.257426 L784.735849,307.980198 L779.54717,307.980198 L779.54717,315.257426 L772.075472,315.257426 L772.075472,320.455446 L779.54717,320.455446 L779.54717,327.940594 L784.735849,327.940594 L784.735849,320.455446 L792,320.455446 L792,315.257426 L784.735849,315.257426 L784.735849,315.257426 Z M746.962264,314.841584 L746.962264,323.158416 C746.962264,323.158416 755.015925,323.147604 758.29517,323.147604 C756.519396,328.539198 753.758189,331.475248 746.962264,331.475248 C740.084774,331.475248 734.716981,325.889871 734.716981,319 C734.716981,312.110129 740.084774,306.524752 746.962264,306.524752 C750.598491,306.524752 752.946887,307.805129 755.101019,309.589713 C756.825321,307.862307 756.681283,307.616129 761.068208,303.465822 C757.344189,300.070059 752.394604,298 746.962264,298 C735.385075,298 726,307.40197 726,319 C726,330.597822 735.385075,340 746.962264,340 C764.266925,340 768.496528,324.90495 767.09434,314.841584 L746.962264,314.841584 L746.962264,314.841584 Z" id="GooglePlus"></path>
+        </g>
+        <g id="Credit" transform="translate(-1818.000000, -475.000000)"></g>
+    </g>
+</svg></a></li>
+
+    <li class="email"><a title="Share using email" href="mailto:?subject=Check%20out%20Collections&amp;body=Check%20out%20Collections:%0D%0A%0D%0Ahttps://www.estherpenn.com/collections"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <title>Email</title>
+  <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+  <path d="M0 0h24v24H0z" fill="none"/>
+</svg></a></li>
+
+  </ul>
+</div>
+      </div>
+    </div>
+  </div>
+
+
+  
+  
+
+  <div class="collection-listing overlay-mode-m">
+    
+    
+    <div class="product-block  collection-block" >
+  <div class="block-inner">
+    <a class="product-link" href="/collections/jewelry">
+
+      <div class="image-cont">
+        
+        <img src="//cdn.shopify.com/s/files/1/0881/4734/collections/BeadedBib1_x600.jpg?v=1438632694" alt="A C C E S S O R I E S">
+        
+      </div>
+
+      <div class="product-info">
+        <span class="productlabel general">
+          <span>
+            <span class="title">A C C E S S O R I E S</span>
+            
+          </span>
+        </span>
+      </div>
+      
+    </a>
+  </div>
+</div>
+    
+    
+    
+    <div class="product-block  collection-block" >
+  <div class="block-inner">
+    <a class="product-link" href="/collections/bottoms">
+
+      <div class="image-cont">
+        
+        <img src="//cdn.shopify.com/s/files/1/0881/4734/products/318A0485_x600.jpg?v=1507075672" alt="BLACK CAB SKIRT">
+        
+      </div>
+
+      <div class="product-info">
+        <span class="productlabel general">
+          <span>
+            <span class="title">B O T T O M S</span>
+            
+            <span class="count">7 products</span>
+            
+          </span>
+        </span>
+      </div>
+      
+    </a>
+  </div>
+</div>
+    
+    
+    
+    <div class="product-block  collection-block" >
+  <div class="block-inner">
+    <a class="product-link" href="/collections/d-r-e-s-s-e-s">
+
+      <div class="image-cont">
+        
+        <img src="//cdn.shopify.com/s/files/1/0881/4734/products/318A2231-2_x600.jpg?v=1507076302" alt="AFTER WORK STRIPE DRESS">
+        
+      </div>
+
+      <div class="product-info">
+        <span class="productlabel general">
+          <span>
+            <span class="title">D R E S S E S</span>
+            
+            <span class="count">13 products</span>
+            
+          </span>
+        </span>
+      </div>
+      
+    </a>
+  </div>
+</div>
+    
+    
+    
+    <div class="product-block  collection-block" >
+  <div class="block-inner">
+    <a class="product-link" href="/collections/o-u-t-e-r-w-e-a-r">
+
+      <div class="image-cont">
+        
+        <img src="//cdn.shopify.com/s/files/1/0881/4734/products/318A1843_x600.jpg?v=1507134002" alt="BLACK ONYX LEATHER JACKET">
+        
+      </div>
+
+      <div class="product-info">
+        <span class="productlabel general">
+          <span>
+            <span class="title">O U T E R W E A R</span>
+            
+            <span class="count">6 products</span>
+            
+          </span>
+        </span>
+      </div>
+      
+    </a>
+  </div>
+</div>
+    
+    
+    
+    <div class="product-block  collection-block" >
+  <div class="block-inner">
+    <a class="product-link" href="/collections/s-h-o-e-s">
+
+      <div class="image-cont">
+        
+        <img src="//cdn.shopify.com/s/files/1/0881/4734/products/101393207_x600.jpg?v=1505778279" alt="BEAUX PLATFORM">
+        
+      </div>
+
+      <div class="product-info">
+        <span class="productlabel general">
+          <span>
+            <span class="title">S H O E S</span>
+            
+            <span class="count">4 products</span>
+            
+          </span>
+        </span>
+      </div>
+      
+    </a>
+  </div>
+</div>
+    
+    
+    
+    <div class="product-block  collection-block" >
+  <div class="block-inner">
+    <a class="product-link" href="/collections/sweaters">
+
+      <div class="image-cont">
+        
+        <img src="//cdn.shopify.com/s/files/1/0881/4734/products/318A1457_x600.jpg?v=1507131984" alt="WEEKEND PULLOVER">
+        
+      </div>
+
+      <div class="product-info">
+        <span class="productlabel general">
+          <span>
+            <span class="title">S W E A T E R S</span>
+            
+            <span class="count">9 products</span>
+            
+          </span>
+        </span>
+      </div>
+      
+    </a>
+  </div>
+</div>
+    
+    
+    
+    <div class="product-block  collection-block" >
+  <div class="block-inner">
+    <a class="product-link" href="/collections/summer-collection">
+
+      <div class="image-cont">
+        
+        <img src="//cdn.shopify.com/s/files/1/0881/4734/collections/DateNightTop1_x600.jpg?v=1438632594" alt="T O P S">
+        
+      </div>
+
+      <div class="product-info">
+        <span class="productlabel general">
+          <span>
+            <span class="title">T O P S</span>
+            
+            <span class="count">21 products</span>
+            
+          </span>
+        </span>
+      </div>
+      
+    </a>
+  </div>
+</div>
+    
+    
+  </div>
+
+  <div class="pagination-row"></div>
+
+  
+  
+</div>
+
+
+
+</div>
+
+      
+    </div><!-- /.container -->
+  </div><!-- /#content -->
+
+  <div id="pagefooter">
+    <div id="shopify-section-cross-page-promos" class="shopify-section">
+
+
+
+
+
+<style type="text/css">
+  
+</style>
+
+
+
+</div>
+
+    <div id="shopify-section-footer" class="shopify-section">
+<div class="nav-row">
+  <div class="multi-level-nav">
+  <div class="tier-1">
+    
+
+
+
+
+
+
+<ul data-menu-handle="footer">
+
+    <li>
+        <a href="/">Home</a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+    <li>
+        <a href="/search">Search</a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+    <li>
+        <a href="/pages/dallas-location">Locations</a>
+        
+        
+        
+        
+        
+
+
+
+
+
+
+<ul data-menu-handle="locations">
+
+    <li>
+        <a href="/pages/dallas-location">Dallas</a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+    <li>
+        <a href="/pages/fort-worth-location">Fort Worth</a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+</ul>
+
+
+    </li>
+
+    <li>
+        <a href="/pages/about">About</a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+    <li>
+        <a href="/pages/return-policy">Return Policy</a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+    <li>
+        <a href="/pages/terms-and-conditions">Terms and Conditions</a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+    <li>
+        <a href="/pages/privacy-policy">Privacy Policy</a>
+        
+        
+        
+        
+        
+
+
+
+
+
+  
+  
+  
+  
+
+
+    </li>
+
+</ul>
+
+
+
+    
+    
+  </div>
+</div>
+</div><!-- /.nav-row -->
+
+
+<div class="lower cf">
+  
+  <div class="social-links">
+  <ul>
+    
+    <li><a title="Twitter" class="twitter" target="_blank" href="https://twitter.com/esther_penn"><svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Twitter</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-240.000000, -299.000000)" fill="#000000">
+            <path d="M288,303.735283 C286.236309,304.538462 284.337383,305.081618 282.345483,305.324305 C284.379644,304.076201 285.940482,302.097147 286.675823,299.739617 C284.771263,300.895269 282.666667,301.736006 280.418384,302.18671 C278.626519,300.224991 276.065504,299 273.231203,299 C267.796443,299 263.387216,303.521488 263.387216,309.097508 C263.387216,309.88913 263.471738,310.657638 263.640782,311.397255 C255.456242,310.975442 248.201444,306.959552 243.341433,300.843265 C242.493397,302.339834 242.008804,304.076201 242.008804,305.925244 C242.008804,309.426869 243.747139,312.518238 246.389857,314.329722 C244.778306,314.280607 243.256911,313.821235 241.9271,313.070061 L241.9271,313.194294 C241.9271,318.08848 245.322064,322.17082 249.8299,323.095341 C249.004402,323.33225 248.133826,323.450704 247.235077,323.450704 C246.601162,323.450704 245.981335,323.390033 245.381229,323.271578 C246.634971,327.28169 250.269414,330.2026 254.580032,330.280607 C251.210424,332.99061 246.961789,334.605634 242.349709,334.605634 C241.555203,334.605634 240.769149,334.559408 240,334.466956 C244.358514,337.327194 249.53689,339 255.095615,339 C273.211481,339 283.114633,323.615385 283.114633,310.270495 C283.114633,309.831347 283.106181,309.392199 283.089276,308.961719 C285.013559,307.537378 286.684275,305.760563 288,303.735283" id="Twitter"></path>
+        </g>
+        <g id="Credit" transform="translate(-1332.000000, -476.000000)"></g>
+    </g>
+</svg></a></li>
+    
+    
+    <li><a title="Facebook" class="facebook" target="_blank" href="https://www.facebook.com/Estherpennfw"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Facebook</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-325.000000, -295.000000)" fill="#000000">
+            <path d="M350.638355,343 L327.649232,343 C326.185673,343 325,341.813592 325,340.350603 L325,297.649211 C325,296.18585 326.185859,295 327.649232,295 L370.350955,295 C371.813955,295 373,296.18585 373,297.649211 L373,340.350603 C373,341.813778 371.813769,343 370.350955,343 L358.119305,343 L358.119305,324.411755 L364.358521,324.411755 L365.292755,317.167586 L358.119305,317.167586 L358.119305,312.542641 C358.119305,310.445287 358.701712,309.01601 361.70929,309.01601 L365.545311,309.014333 L365.545311,302.535091 C364.881886,302.446808 362.604784,302.24957 359.955552,302.24957 C354.424834,302.24957 350.638355,305.625526 350.638355,311.825209 L350.638355,317.167586 L344.383122,317.167586 L344.383122,324.411755 L350.638355,324.411755 L350.638355,343 L350.638355,343 Z" id="Facebook"></path>
+        </g>
+        <g id="Credit" transform="translate(-1417.000000, -472.000000)"></g>
+    </g>
+</svg></a></li>
+    
+    
+    
+    
+    
+    <li><a title="Instagram" class="instagram" target="_blank" href="https://www.instagram.com/esther_penn/"><svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Instagram</title>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-642.000000, -295.000000)" fill="#000000">
+            <path d="M666.000048,295 C659.481991,295 658.664686,295.027628 656.104831,295.144427 C653.550311,295.260939 651.805665,295.666687 650.279088,296.260017 C648.700876,296.873258 647.362454,297.693897 646.028128,299.028128 C644.693897,300.362454 643.873258,301.700876 643.260017,303.279088 C642.666687,304.805665 642.260939,306.550311 642.144427,309.104831 C642.027628,311.664686 642,312.481991 642,319.000048 C642,325.518009 642.027628,326.335314 642.144427,328.895169 C642.260939,331.449689 642.666687,333.194335 643.260017,334.720912 C643.873258,336.299124 644.693897,337.637546 646.028128,338.971872 C647.362454,340.306103 648.700876,341.126742 650.279088,341.740079 C651.805665,342.333313 653.550311,342.739061 656.104831,342.855573 C658.664686,342.972372 659.481991,343 666.000048,343 C672.518009,343 673.335314,342.972372 675.895169,342.855573 C678.449689,342.739061 680.194335,342.333313 681.720912,341.740079 C683.299124,341.126742 684.637546,340.306103 685.971872,338.971872 C687.306103,337.637546 688.126742,336.299124 688.740079,334.720912 C689.333313,333.194335 689.739061,331.449689 689.855573,328.895169 C689.972372,326.335314 690,325.518009 690,319.000048 C690,312.481991 689.972372,311.664686 689.855573,309.104831 C689.739061,306.550311 689.333313,304.805665 688.740079,303.279088 C688.126742,301.700876 687.306103,300.362454 685.971872,299.028128 C684.637546,297.693897 683.299124,296.873258 681.720912,296.260017 C680.194335,295.666687 678.449689,295.260939 675.895169,295.144427 C673.335314,295.027628 672.518009,295 666.000048,295 Z M666.000048,299.324317 C672.40826,299.324317 673.167356,299.348801 675.69806,299.464266 C678.038036,299.570966 679.308818,299.961946 680.154513,300.290621 C681.274771,300.725997 682.074262,301.246066 682.91405,302.08595 C683.753934,302.925738 684.274003,303.725229 684.709379,304.845487 C685.038054,305.691182 685.429034,306.961964 685.535734,309.30194 C685.651199,311.832644 685.675683,312.59174 685.675683,319.000048 C685.675683,325.40826 685.651199,326.167356 685.535734,328.69806 C685.429034,331.038036 685.038054,332.308818 684.709379,333.154513 C684.274003,334.274771 683.753934,335.074262 682.91405,335.91405 C682.074262,336.753934 681.274771,337.274003 680.154513,337.709379 C679.308818,338.038054 678.038036,338.429034 675.69806,338.535734 C673.167737,338.651199 672.408736,338.675683 666.000048,338.675683 C659.591264,338.675683 658.832358,338.651199 656.30194,338.535734 C653.961964,338.429034 652.691182,338.038054 651.845487,337.709379 C650.725229,337.274003 649.925738,336.753934 649.08595,335.91405 C648.246161,335.074262 647.725997,334.274771 647.290621,333.154513 C646.961946,332.308818 646.570966,331.038036 646.464266,328.69806 C646.348801,326.167356 646.324317,325.40826 646.324317,319.000048 C646.324317,312.59174 646.348801,311.832644 646.464266,309.30194 C646.570966,306.961964 646.961946,305.691182 647.290621,304.845487 C647.725997,303.725229 648.246066,302.925738 649.08595,302.08595 C649.925738,301.246066 650.725229,300.725997 651.845487,300.290621 C652.691182,299.961946 653.961964,299.570966 656.30194,299.464266 C658.832644,299.348801 659.59174,299.324317 666.000048,299.324317 Z M666.000048,306.675683 C659.193424,306.675683 653.675683,312.193424 653.675683,319.000048 C653.675683,325.806576 659.193424,331.324317 666.000048,331.324317 C672.806576,331.324317 678.324317,325.806576 678.324317,319.000048 C678.324317,312.193424 672.806576,306.675683 666.000048,306.675683 Z M666.000048,327 C661.581701,327 658,323.418299 658,319.000048 C658,314.581701 661.581701,311 666.000048,311 C670.418299,311 674,314.581701 674,319.000048 C674,323.418299 670.418299,327 666.000048,327 Z M681.691284,306.188768 C681.691284,307.779365 680.401829,309.068724 678.811232,309.068724 C677.22073,309.068724 675.931276,307.779365 675.931276,306.188768 C675.931276,304.598171 677.22073,303.308716 678.811232,303.308716 C680.401829,303.308716 681.691284,304.598171 681.691284,306.188768 Z" id="Instagram"></path>
+        </g>
+        <g id="Credit" transform="translate(-1734.000000, -472.000000)"></g>
+    </g>
+</svg></a></li>
+    
+    
+    
+    
+  </ul>
+</div>
+  
+
+ 
+
+  <div class="copyright">
+    <span class="copy">&copy; 2017 <a href="/" title="">Esther Penn </a></span>
+
+  <!--  Theme by <a href="http://www.cleanthemes.co.uk" target="_blank">Clean Themes</a>. 
+
+    <a target="_blank" rel="nofollow" href="https://www.shopify.com">Powered by Shopify</a> -->
+  </div><!-- /.copyright -->
+
+ <!-- <div class="payment-methods">
+    
+    <img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_american_express-54be4e6bfc1dbd42f93af603e102fde2356dfe2372a7dd851074964337533296.svg" />
+    
+    <img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_apple_pay-d460161363710d3569a32e30d86970452cbc865913615b792b184c8d448108dc.svg" />
+    
+    <img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_diners_club-d07838507a213e5e52ef4272d3ccfe3da294642628264cd0934baf6878ceb197.svg" />
+    
+    <img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_discover-96a6318d3deeede785ba12114a8d00bd23731f9f16e14ddcd0bdfd5e1d846307.svg" />
+    
+    <img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_jcb-8f8079695e74d5688707997b208994c4d8078baa58b866ed47852cf9674d9332.svg" />
+    
+    <img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_master-94df290d56a3c6424296953282e18e46895ba94bdef368640eb52f8349915610.svg" />
+    
+    <img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_shopify_pay-a1570f15d54d97b58241fbd29a91480cd71c6d6a7ae02c4dac18e46e45a18086.svg" />
+    
+    <img src="//cdn.shopify.com/s/assets/global/payment_types/creditcards_visa-e9f829d15f5ec3b1953ba8b9bc59b448ddb1ec9235ae70c7936178744cb31489.svg" />
+    
+  </div> -->
+</div>
+
+
+
+</div>
+  </div><!-- /#pagefooter -->
+  
+  <script src="//cdn.shopify.com/s/files/1/0881/4734/t/6/assets/vendor.js?9062247146958027587" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0881/4734/t/6/assets/theme.js?9062247146958027587" type="text/javascript"></script>
+  
+  
+  
+</body>
+</html><iframe id="admin_bar_iframe" src="https://esther-penn.myshopify.com/admin/bar?u=https://www.estherpenn.com/collections" style="height: 40px; position:fixed; top:0; left:0; right:0; z-index:2147483647;background:#191919" width="100%" frameborder="0" allowTransparency="true">{}</iframe>
